@@ -28,6 +28,14 @@ style="height: 400px;"/>
 
 <img src="https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Screenshots/img8.png?raw=true" alt="Image 8" style="height: 400px;"/>
 
+[![Shaking 1](https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Apresentacao/shaking1.mov?raw=true)
+
+[![Shaking 2](https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Apresentacao/shaking2.mov?raw=true)
+
+[![Positive Feedback](https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Apresentacao/positiveFeedback.mov?raw=true)
+
+[![Negative Feedback](https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Apresentacao/negativeFeedback.mov?raw=true)
+
 ## Instalação 
 **Linguagem**: Swift<br>
 **Framework**: SwiftUI<br>
