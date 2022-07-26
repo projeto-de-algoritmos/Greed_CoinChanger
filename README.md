@@ -10,7 +10,7 @@
 ## Sobre 
 O Coin Change é um mini game que tem como objetivo incentivar crianças a aprenderem matemática. Ele utiliza um algoritmo ambicioso para encontrar o menor número de moedas dado um valor. Dessa forma, o objetivo é que, dado um valor, a criança pense e selecione o menor número de moedas possível para atingir aquele valor e o algoritmo valide a solução dada. Caso a resposta apresentada seja correta, é apresentado um feedback visual e auditivo para estimular a criança.
 ## Screenshots
-<img src="https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Screenshots/img1.png?raw=true" alt="Image 1" style="height: 200px;"/>
+<img src="https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Screenshots/img1.png?raw=true" alt="Image 1" style="height: 400px;"/>
 
 ## Instalação 
 **Linguagem**: Swift<br>
