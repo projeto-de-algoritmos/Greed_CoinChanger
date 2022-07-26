@@ -12,6 +12,22 @@ O Coin Change é um mini game que tem como objetivo incentivar crianças a apren
 ## Screenshots
 <img src="https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Screenshots/img1.png?raw=true" alt="Image 1" style="height: 400px;"/>
 
+<img src="https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Screenshots/img2.png?raw=true" alt="Image 2" style="height: 400px;"/>
+
+<img src="https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Screenshots/img3.png?raw=true" alt="Image 3" style="height: 400px;"/>
+
+<img src="https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Screenshots/img4.png?raw=true" alt="Image 4" style="height: 400px;"/>
+
+<img src="https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Screenshots/img5.png?raw=true" alt="Image 5" 
+style="height: 400px;"/>
+
+<img src="https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Screenshots/img6.png?raw=true" alt="Image 6" 
+style="height: 400px;"/>
+
+<img src="https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Screenshots/img7.png?raw=true" alt="Image 7" style="height: 400px;"/>
+
+<img src="https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Screenshots/img8.png?raw=true" alt="Image 8" style="height: 400px;"/>
+
 ## Instalação 
 **Linguagem**: Swift<br>
 **Framework**: SwiftUI<br>
