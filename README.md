@@ -59,7 +59,7 @@ Para instalar o Xcode, abra a App Store e instale-o ou procure o arquivo de inst
 Algumas funções do app necessitam de cachoalhar o aparelho. Caso esteja usando o Simulador, clique em Device no menu superior e em Shake(^⌘Z) para simular esse gesto. Em dispositivos físicos, é só cachoalhar por 1,5 segundos e parar. </br> 
 
 ## Apresentação
-WIP
+[Apresentação](https://youtu.be/V1G5nWUyRYI)
 
 
 
