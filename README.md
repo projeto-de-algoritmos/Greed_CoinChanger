@@ -28,13 +28,13 @@ style="height: 400px;"/>
 
 <img src="https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Screenshots/img8.png?raw=true" alt="Image 8" style="height: 400px;"/>
 
-[![Shaking 1](https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Apresentacao/Assets/shaking1.mov?raw=true)
+[![Shaking 1](https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Apresentacao/Assets/shaking1.mov)
 
-[![Shaking 2](https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Apresentacao/Assets/shaking2.mov?raw=true)
+[![Shaking 2](https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Apresentacao/Assets/shaking2.mov)
 
-[![Positive Feedback](https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Apresentacao/Assets/positiveFeedback.mov?raw=true)
+[![Positive Feedback](https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Apresentacao/Assets/positiveFeedback.mov)
 
-[![Negative Feedback](https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Apresentacao/Assets/negativeFeedback.mov?=raw=true)
+[![Negative Feedback](https://github.com/projeto-de-algoritmos/Greed_CoinChanger/blob/master/Apresentacao/Assets/negativeFeedback.mov)
 
 ## Instalação 
 **Linguagem**: Swift<br>
